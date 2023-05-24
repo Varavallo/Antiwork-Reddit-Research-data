@@ -13,6 +13,8 @@ The dataset includes the following fields:
 5. **Date_Created**: The date and time when the post was created.
 6. **URL**: The URL for accessing the post on Reddit.
 
+After thorough data cleaning and pre-processing, the dataset contains a total of 783 posts.
+
 ## Usage
 
 The dataset can be used for various analyses, such as exploring the sentiment of the subreddit, identifying trending topics, or understanding user engagement.
