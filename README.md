@@ -8,10 +8,11 @@ The dataset includes the following fields:
 
 1. **Post ID**: The unique identifier for each post in the subreddit.
 2. **Title**: The title of the post.
-3. **Score**: The net score of the post, which is the total number of upvotes minus downvotes.
-4. **Num_Comments**: The total number of comments on the post.
-5. **Date_Created**: The date and time when the post was created.
-6. **URL**: The URL for accessing the post on Reddit.
+3. **Post**: Textual Content published by the users
+4. **Score**: The net score of the post, which is the total number of upvotes minus downvotes.
+5. **Num_Comments**: The total number of comments on the post.
+6. **Date_Created**: The date and time when the post was created.
+7. **URL**: The URL for accessing the post on Reddit.
 
 After thorough data cleaning and pre-processing, the dataset contains a total of 783 posts.
 
